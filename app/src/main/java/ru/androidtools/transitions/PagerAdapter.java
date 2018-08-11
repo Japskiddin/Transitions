@@ -61,11 +61,4 @@ public class PagerAdapter extends android.support.v4.view.PagerAdapter {
   @Override public boolean isViewFromObject(@NonNull View view, @NonNull Object object) {
     return view == object;
   }
-
-  //@Override public int getItemPosition(@NonNull Object object) {
-  //  if (photoList.contains(object)) {
-  //    return POSITION_UNCHANGED;
-  //  }
-  //  return POSITION_NONE;
-  //}
 }

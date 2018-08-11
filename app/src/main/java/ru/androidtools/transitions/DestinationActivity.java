@@ -36,7 +36,6 @@ public class DestinationActivity extends Activity implements PagerAdapter.PagerC
     viewPager = findViewById(R.id.viewpager);
     pagerAdapter = new PagerAdapter(this, photoList, current, this);
     viewPager.setAdapter(pagerAdapter);
-    //viewPager.setPageTransformer(true, new ViewPageTransformer());
     viewPager.setCurrentItem(current);
   }
 
