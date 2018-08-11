@@ -1,0 +1,38 @@
+*.iml
+.gradle
+/local.properties
+.idea
+.DS_Store
+build
+app/build
+/captures
+.externalNativeBuild
+Будет удалено .gitignore
+Будет удалено .idea/gradle.xml
+Будет удалено .idea/misc.xml
+Будет удалено .idea/modules.xml
+Будет удалено .idea/runConfigurations.xml
+Будет удалено .idea/vcs.xml
+Будет удалено app/.gitignore
+Будет удалено app/build.gradle
+Будет удалено app/proguard-rules.pro
+Будет удалено app/src/
+Будет удалено build.gradle
+Будет удалено gradle.properties
+Будет удалено gradle/
+Будет удалено gradlew
+Будет удалено gradlew.bat
+Будет удалено settings.gradle
+Будет удалено fastlane/metadata/android/de-DE/images/
+Будет удалено fastlane/metadata/android/en-US/images/phoneScreenshots/
+Будет удалено fastlane/metadata/android/en-US/images/sevenInchScreenshots/
+Будет удалено fastlane/metadata/android/en-US/images/tenInchScreenshots/
+Будет удалено fastlane/metadata/android/en-US/images/tvScreenshots/
+Будет удалено fastlane/metadata/android/en-US/images/wearScreenshots/
+Будет удалено fastlane/metadata/android/es-ES/images/
+Будет удалено fastlane/metadata/android/es-US/images/
+Будет удалено fastlane/metadata/android/fr-FR/images/
+Будет удалено fastlane/metadata/android/ko-KR/images/
+Будет удалено fastlane/metadata/android/pt-BR/images/
+Будет удалено fastlane/metadata/android/pt-PT/images/
+Будет удалено fastlane/metadata/android/ru-RU/images/
